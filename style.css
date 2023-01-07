@@ -1,0 +1,313 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header img{
+    width: 1519px;
+    height: 809px;
+}
+header h1{
+    text-align: right;
+    font-size: 65px;
+    font-family: Arial;
+    left: 800px;
+    top: -620px;
+    position: relative;
+    width: 525px;
+    height: 228px;
+    color: white;
+    
+}
+header p{
+    text-align: right;
+    font-size: 15;
+    font-family: Arial;
+    left: 825px;
+    top: -600px;
+    position: relative;
+    width: 494px;
+    height: 78px;
+    line-height: 25px;
+    color: white;
+}
+header button{
+    height: 64px;
+    width: 160px ;
+    color:rgb(34, 163, 206);
+    background-color: white;
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+    left: 1160px;
+    top: -580px;
+    position: relative;   
+}
+nav img{
+    height:600px ;
+    width:450px ;
+    left:220px;
+    top: -250px;
+    position: relative;
+}
+nav h1{
+    text-align: left;
+    font-size: 35px;
+    font-family: Arial;
+    font-weight:700;
+    left: 800px;
+    top: -670px;
+    position: relative;
+    width: 500px;
+    height: 90px;
+}
+nav p{
+    color: gray;
+    text-align: left;
+    font-size: 14px;
+    font-family: Arial;
+    left: 800px;
+    top: -670px;
+    position: relative;
+    width: 400px;
+    height: 90px;
+    line-height: 25px;
+}
+nav ul{
+    color: gray;
+    text-align: left;
+    font-size: 14px;
+    font-family: Arial;
+    left: 800px;
+    top: -650px;
+    position: relative;
+    line-height: 25px;
+    list-style: none;
+    
+}
+ul li:before{ 
+    content: "\2713";
+    color: green;
+    margin-right: 4px;
+    font-size: 20px;
+ }
+.h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial;
+    top: -400px;
+    position: relative;
+    left: 520px;
+}
+.icons{
+    float: left;
+    position: relative;
+    top: -100px;
+    justify-content: center;
+
+}
+.w{
+    float: left;
+    position: relative;
+
+}
+.j{
+    float: left;
+    position: relative;
+
+}
+.s{
+    float: left;
+    position: relative;
+
+}
+.e{
+    float: left;
+    position: relative;
+}
+
+.w img{
+    float: left;
+    height: 100px;
+    width: 100px;
+    left: 250px;
+}
+.j img{
+    float: left;
+    height: 100px;
+    width: 100px;
+    left: 70px;
+}
+.s img{
+    float: left;
+    height: 100px;
+    width: 100px;
+    left:-140px;
+}
+.e img{
+    float: left;
+    height: 100px;
+    width: 100px;
+    top: -350px;
+    left: 1150px;
+}
+.w h2{
+    float: left;
+    width: 200px;
+    left: 110px;
+    position: relative;
+    top: -130px;
+}
+.j h2{
+    float: left;
+    width: 200px;
+    left: -30px;
+    position: relative;
+    top: -130px;
+}
+.s h2{
+    float: left;
+    position: relative;
+    width: 200px;
+    left: -270px;
+    top: -130px;
+
+}
+.e h2{
+    float: left;
+    position: relative;
+    width: 200px;
+    left: 1055px;
+    top: -230px;
+}
+.w p{
+    color: gray;
+    float: left;
+    position: relative;
+    width: 200px;
+    top: -95px;
+    left: -50px;
+    font-size: 18px;
+}
+.j p{
+    color: gray;
+    float: left;
+    position: relative;
+    width: 200px;
+    top: -95px;
+    left: -235px;
+    font-size: 18px;
+}
+.s p{
+    color: gray;
+    float: left;
+    position: relative;
+    width: 200px;
+    top: -95px;
+    left: -440px;
+    font-size: 18px;
+}
+.e p{
+    color: gray;
+    float: left;
+    position: relative;
+    width: 200px;
+    top: -195px;
+    left: 845px;
+    font-size: 18px;
+}
+#midlow{
+    text-align: left;
+    left: 300px;
+    top: -800px;
+    color: white;
+}
+nav div button{
+    height: 64px;
+    width: 160px ;
+    color: rgb(55, 49, 214);
+    background-color: white;
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+    left: 300px;
+    top: -780px;
+    position: relative;   
+}
+nav{
+    height: 1400px;
+}
+footer{
+    height: 400px;
+    width: 1519px;
+}
+.footer{
+    background-color: black;
+    height: 580px;
+    width: 1519px;
+    color: white;
+    
+    
+}
+footer h1{
+    left: 300px;
+    top: 150px;
+    position: relative;
+}
+footer p{
+    left: 300px;
+    top: 165px;
+    position: relative;
+    line-height: 25px;
+}
+footer div{
+
+    left: 300px;
+    top: 200px;
+    position: relative;
+    
+
+}
+.fb{
+    height: 40px;
+    width:40px ;
+    margin-left: 4px;
+}
+.tw{
+    height: 40px;
+    width:40px ;
+    margin-left: 4px;
+}
+
+.yt{
+    height: 40px;
+    width:40px ;
+    margin-left: 4px;
+}
+footer h2{
+    left: 1000px;
+    top: -80px;
+    position: relative;
+}
+footer form{
+    left: 1000px;
+    top: -80px;
+    position: relative;
+}
+.email{
+    border-color: white;
+    border-radius: 5px;
+    background-color: black;
+    height: 50px;
+    width: 270px;
+}
+.sub{
+    border: none;
+    border-radius: 5px;
+    background-color:rgb(56, 56, 221);
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size: 15px;
+    font-weight: bolder;
+
+}
